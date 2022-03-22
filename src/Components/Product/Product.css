@@ -1,0 +1,28 @@
+.product-container {
+    height: 510px;
+    width: 300px;
+    border: 1px solid #95a0a7;
+    border-radius: 8px;
+    position: relative;
+}
+.product-container img {
+    width: 286px;
+    height: 286px;
+    border-radius: 8px;
+    margin-left: 7px;
+    margin-top: 7px;
+}
+.product-info {
+    padding: 10px;
+    line-height: 15px;
+}
+.product-container button {
+    width: 100%;
+    height: 45px;
+    background: #ffe0b3;
+    border: 1px solid #95a0a7;
+    box-sizing: border-box;
+    border-radius: 0px 0px 8px 8px;
+    position: absolute;
+    bottom: 0;
+}
